@@ -1,0 +1,7 @@
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\Inheritance\bin\Debug\Inheritance.exe.config
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\Inheritance\bin\Debug\Inheritance.exe
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\Inheritance\bin\Debug\Inheritance.pdb
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\Inheritance\obj\Debug\Inheritance.exe
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\Inheritance\obj\Debug\Inheritance.pdb

@@ -1,0 +1,7 @@
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\Enumerator-Enumerable\bin\Debug\Enumerator-Enumerable.exe.config
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\Enumerator-Enumerable\bin\Debug\Enumerator-Enumerable.exe
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\Enumerator-Enumerable\bin\Debug\Enumerator-Enumerable.pdb
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\Enumerator-Enumerable\obj\Debug\EnumeratorEnumerable.csproj.CoreCompileInputs.cache
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\Enumerator-Enumerable\obj\Debug\Enumerator-Enumerable.exe
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\Enumerator-Enumerable\obj\Debug\Enumerator-Enumerable.pdb
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\Enumerator-Enumerable\obj\Debug\EnumeratorEnumerable.csproj.AssemblyReference.cache

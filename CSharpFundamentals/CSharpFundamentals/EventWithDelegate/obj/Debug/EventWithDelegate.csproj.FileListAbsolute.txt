@@ -1,0 +1,7 @@
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\EventWithDelegate\obj\Debug\EventWithDelegate.csproj.AssemblyReference.cache
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\EventWithDelegate\obj\Debug\EventWithDelegate.csproj.CoreCompileInputs.cache
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\EventWithDelegate\bin\Debug\EventWithDelegate.exe.config
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\EventWithDelegate\bin\Debug\EventWithDelegate.exe
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\EventWithDelegate\bin\Debug\EventWithDelegate.pdb
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\EventWithDelegate\obj\Debug\EventWithDelegate.exe
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\EventWithDelegate\obj\Debug\EventWithDelegate.pdb

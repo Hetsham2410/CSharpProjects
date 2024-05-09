@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>XMLDocumentation</name>
+    </assembly>
+    <members>
+        <member name="generator">			
+            <summary>
+            The main Generator Class
+            </summary>
+            <remarks>
+            This class can generate employee Ids and random passwords
+            </remarks>		
+        </member>
+        <member name="P:XMLDocumentation.Generator.LastIdSequence">
+            <value> value of last id sequence </value>
+        </member>
+        <member name="M:XMLDocumentation.Generator.GenerateId(System.String,System.String,System.Nullable{System.DateTime})">
+            <summary>
+            Generate Employee Id by processing <paramref name="fname"/>, <paramref name="lname"/>, <paramref name="hiredate"/>
+            <list type="bullet">
+            <item>
+            <term>ID</term>
+            <description>Employee Initials (first letter of <paramref name="lname"/> and first letter of <paramref name="fname"/>)</description>
+            </item>
+            <item>
+            <term>YY</term>
+            <description>Hire Date 2 digit year</description>
+            </item>
+            /// <item>
+            <term>MM</term>
+            <description>Hire Date 2 digit month</description>
+            </item>
+            /// <item>
+            <term>DD</term>
+            <description>Hire Date 2 digit day</description>
+            </item>
+            </list>
+            </summary>
+            <param name="fname"></param>
+            <param name="lname"></param>
+            <param name="hiredate"></param>
+            <example>
+            <code>
+            var id = Generator.GenerateId("Jogn","Smith",new DateTime(2021, 06, 21, 0, 0, 0);
+            Console.WriteLine(id);
+            </code>
+            </example>
+            <returns>
+            employee Id as a string
+            </returns>
+            <exception cref="T:System.InvalidOperationException">Thrown when <paramref name="fname"/>is null</exception>
+            <exception cref="T:System.InvalidOperationException">Thrown when <paramref name="lname"/>is null</exception>
+            <exception cref="T:System.InvalidOperationException">Thrown when <paramref name="hiredate"/>is in the past</exception>
+            See <see cref="M:XMLDocumentation.Generator.GenerateRandomPassword(System.Int32)"/> to Generate a random password
+        </member>
+    </members>
+</doc>

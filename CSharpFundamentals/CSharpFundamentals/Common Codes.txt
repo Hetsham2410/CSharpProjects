@@ -1,0 +1,93 @@
+﻿/*
+// How to convert Hexadecimal to its equivalent character
+string[] hexValues = { "49", "73", "73", "61", "6D" };
+foreach (var hex in hexValues)
+{
+    int value1 = Convert.ToInt32(hex, 16); // Convert from Hex to Int(ASCII)
+    int value2 = Int32.Parse(hex, System.Globalization.NumberStyles.HexNumber); // Another way to convert from Hex to Int
+    //Console.WriteLine(value1);
+    var stringvalue = Char.ConvertFromUtf32(value);// Convert from Int(ASCII) to letters
+    Console.WriteLine(stringvalue); 
+    var ch = (char)value; // Convert from Int(ASCII) to letters
+    Console.WriteLine(ch);
+}*
+===========================================
+/* 
+ // How to convert letter to its equivalent integers values (ASCII, Hexadecimal)
+ var name = "Issam";
+ char[] letters = name.ToCharArray();
+ foreach (var l in letters)
+ {
+     int ascii = Convert.ToInt32(l);
+     var output = $"'{l}' → ASCII: {ascii}, Binary: {Convert.ToString(ascii,2).PadLeft(8,'0')}, Hexadecimal: {ascii:x}";
+     Console.WriteLine(output);
+ } */
+===========================================
+Passing Arguements by value
+int age = 18;
+d1.DoSomething(age);
+Cosnole.WriteLine(age);// age = 18
+
+public class Demo
+{
+    public void DoSomething(age)
+    {
+        age = age + 3;
+    }
+}
+
+Passing Arguements by reference 
+using words:
+    1- ref: Requires that arguments have initial values
+
+int age = 18;
+d1.DoSomething(ref age);
+Cosnole.WriteLine(age);// age = 21
+
+public class Demo
+{
+    public void DoSomething(ref int age)
+    {
+        age = age + 3;
+    }
+}
+    2- out: Don't require that arguments have initial values but must be initialied in method
+
+int age;
+d1.DoSomething(out age);
+Cosnole.WriteLine(age);// age = 21
+
+public class Demo
+{
+    public void DoSomething(out int age)
+    {
+        age = 18 ;
+        age = age + 3;
+    }
+}
+===========================================
+If a method has a return type with 1 sentense like that :
+public bool IsEven(int number)
+{
+    return number % 2 == 0;
+}
+we can used bodied method with lambda expression like that:
+public bool IsEven(int number) => number % 2 == 0;
+===========================================
+A Property is a public way to access private field
+public class Dollar
+{
+	 private decimal _amount;
+	 public decimal Amount
+	 {
+		get
+		{
+			return this._amount;
+		}
+		set
+		{
+			this._amount = value;
+		}	
+	 }
+	 
+}

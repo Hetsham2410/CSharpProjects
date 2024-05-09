@@ -1,0 +1,9 @@
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\XMLDocumentation\obj\Debug\XMLDocumentation.csproj.AssemblyReference.cache
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\XMLDocumentation\obj\Debug\XMLDocumentation.csproj.CoreCompileInputs.cache
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\XMLDocumentation\obj\Debug\XMLDocumentation.exe
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\XMLDocumentation\obj\Debug\XMLDocumentation.pdb
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\XMLDocumentation\bin\Debug\XMLDocumentation.xml
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\XMLDocumentation\XMLDocumentation.exe.config
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\XMLDocumentation\XMLDocumentation.exe
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\XMLDocumentation\XMLDocumentation.pdb
+D:\Projects\C#\CSharpFundamentals\CSharpFundamentals\XMLDocumentation\XMLDocumentation.xml
